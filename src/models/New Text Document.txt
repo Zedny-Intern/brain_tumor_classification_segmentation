@@ -1,0 +1,3 @@
+models can be downloaded from here 
+https://www.kaggle.com/code/abdulhadialimohamed/brain-tumor-segmentation/output
+https://www.kaggle.com/code/abdulhadialimohamed/new-brain-tumor/output
